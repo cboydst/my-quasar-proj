@@ -1,0 +1,15 @@
+// app global css in SCSS form
+
+$base-color: #0f3924;
+$secondary-color: #f3c475;
+
+.navbar {
+  background-color: $base-color;
+  color: $secondary-color;
+}
+
+.player-card {
+  background-color: $base-color;
+  color: $secondary-color;
+  min-width: 450px;
+}
